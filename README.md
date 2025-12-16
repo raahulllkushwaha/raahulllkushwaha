@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I’m Rahul Kushwaha 👋
 
-<!--
-**raahulllkushwaha/raahulllkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Java Backend Developer | ⚙️ Microservices & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I’m a backend-focused developer with a strong foundation in Java and Spring Boot, currently pursuing my Master of Computer Applications (MCA). I enjoy building scalable, logic-driven systems and continuously improving my understanding of distributed systems, microservices architecture, and modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in writing clean, maintainable code and understanding why a system works, not just how to make it run.
+
+
+> “Focus on fundamentals. Scale with understanding.”
+🌐 Socials:
+Instagram email
+
+💻 Tech Stack:
+Java JavaScript CSS3 C++ HTML5 Spring Git GitHub Docker Apache Kafka Jenkins MySQL Postgres Postman
+
+📊 GitHub Stats:
+
+
+
+
+
+
