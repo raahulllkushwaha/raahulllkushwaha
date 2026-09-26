@@ -25,6 +25,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Snake action runs in a Docker container as root, which leaves
+      # dist/ owned by root. Fix ownership so later steps can write into it.
+      - name: Fix dist permissions
+        run: sudo chown -R $(id -u):$(id -g) dist && chmod -R u+rwX dist
+
       # 2) GitHub Profile Trophy
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
