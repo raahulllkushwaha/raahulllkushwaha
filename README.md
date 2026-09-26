@@ -271,8 +271,6 @@ Actively improving problem-solving skills through **DSA and LeetCode**.
 <img src="https://raw.githubusercontent.com/raahulllkushwaha/raahulllkushwaha/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
 
-> ⚠️ The snake image only appears once the `snake` GitHub Action workflow has run at least once on your profile repo and pushed to the `output` branch — see the setup note below the file.
-
 ---
 
 # 🌐 Connect With Me
