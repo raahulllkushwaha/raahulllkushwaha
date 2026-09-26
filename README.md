@@ -1,31 +1,323 @@
-# 💫 About Me:
-# Hi, I'm Rahul Kushwaha 👋
+<!-- ========================= -->
+<!--       ANIMATED HEADER      -->
+<!-- ========================= -->
 
-🎓 MCA Student | 💻 Java Backend Developer | ⚙️ Microservices & DevOps Enthusiast | 📍 Jabalpur, India
+<div align="center">
 
-I'm a backend-focused developer with a strong foundation in **Java and Spring Boot**, currently pursuing my **Master of Computer Applications (MCA)**. I build production-grade APIs with security, database migrations, and real-world deployment concerns baked in — not just CRUD demos.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E2DE2&height=250&section=header&text=Rahul%20Kushwaha&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Java%20Backend%20Developer%20%7C%20Building%20Systems%2C%20Not%20Just%20CRUD&descAlignY=55&descSize=18" width="100%"/>
 
-I've worked as a freelance backend developer, taking projects from raw requirements to fully deployed systems — handling everything from API design and database schema to authentication, rate limiting, and async messaging. I enjoy the part most tutorials skip: debugging the weird production issue, fixing the race condition, figuring out *why* something breaks under load.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Docker+%7C+Kubernetes+%7C+Jenkins;REST+APIs+%7C+JPA+%7C+SQL;MCA+Student+%7C+System+Design+Enthusiast;Building+systems%2C+not+just+CRUD+apps." alt="Typing SVG" />
+</a>
 
-I run **Fedora Linux (KDE Plasma)** as my daily driver, and I believe in writing clean, maintainable code and understanding *why* a system works, not just *how* to make it run. Outside of code, I'm into screenwriting and strategic thinking — I like breaking down complex systems, whether that's a distributed architecture or a story structure, into their underlying logic.
+<br/>
 
-📫 Always open to freelance backend work, collaboration, or just talking shop about system design.
+<img src="https://komarev.com/ghpvc/?username=raahulllkushwaha&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/raahulllkushwaha?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraahulllkushwaha&style=for-the-badge" alt="Repos"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= -->
+<!--        ABOUT ME            -->
+<!-- ========================= -->
+
+## 🧠 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave"/>
+
+I'm a **backend-focused Java developer** who enjoys understanding what happens behind the API rather than stopping at the controller layer.
+
+My primary stack revolves around:
+
+```
+Java  ➜  Spring Boot  ➜  Spring Data JPA  ➜  REST APIs  ➜  SQL  ➜  Docker  ➜  Kafka  ➜  Microservices
+```
+
+- 🎓 Currently pursuing my **Master of Computer Applications (MCA)**
+- 🔍 I like understanding systems across every layer — code, APIs, databases, messaging, infra & failure scenarios
+- 🏗️ Interested in building maintainable backends with proper architecture, security, DB design & async processing
+- 🐧 I develop entirely on **Linux (Fedora)**
+
+<br clear="right"/>
 
 ---
 
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Java Backend] --> B[Spring Boot]
+    B --> C[Spring Data JPA]
+    C --> D[REST APIs]
+    D --> E[Microservices]
+    E --> F[Apache Kafka]
+    F --> G[Docker]
+    G --> H[Kubernetes]
+    H --> I[CI/CD]
+    I --> J[System Design]
+
+    style A fill:#36BCF7,stroke:#333,color:#000
+    style J fill:#8E2DE2,stroke:#333,color:#fff
+```
+
+</div>
+
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raahullkushwaha/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raahullkushwaha.dev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raahullkushwaha) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raahullkushwaha@gmail.com)
+<!-- ========================= -->
+<!--        TECH STACK          -->
+<!-- ========================= -->
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Fedora](https://img.shields.io/badge/fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
+# 💻 Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raahulllkushwaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raahulllkushwaha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raahulllkushwaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark" />
+</p>
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `Maven` `REST API` `Microservices`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite&theme=dark" />
+</p>
+
+`HTML` `CSS` `JavaScript` `React` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+</p>
+
+`MySQL` `PostgreSQL` `MongoDB` `SQL` `JPA` `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### 📨 Messaging & Distributed Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
+</p>
+
+`Apache Kafka` `Event-Driven Architecture` `Async Communication`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 DevOps & Infra
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux&theme=dark" />
+</p>
+
+`Docker` `Kubernetes` `GitHub Actions` `AWS` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Dev Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,bash,powershell&theme=dark" />
+</p>
+
+`Git` `GitHub` `Postman` `IntelliJ IDEA` `VS Code` `Bash` `PowerShell`
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raahulllkushwaha&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🧪 Development Approach
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A(Code) --> B(API Design)
+    B --> C(Business Logic)
+    C --> D(Database)
+    D --> E(Messaging)
+    E --> F(Security)
+    F --> G(Deployment)
+    G --> H(Failure Handling)
+
+    style A fill:#36BCF7,color:#000
+    style H fill:#8E2DE2,color:#fff
+```
+
+</div>
+
+My focus is on writing software that is **clean, maintainable and understandable**, while learning how systems behave under real-world conditions.
+
+---
+
+# 🐧 Development Environment
+
+<div align="center">
+
+| | |
+|---|---|
+| **OS** | Fedora Linux |
+| **Desktop** | KDE Plasma |
+| **Primary IDE** | IntelliJ IDEA |
+| **Editor** | VS Code |
+| **Terminal** | Bash / PowerShell |
+| **Backend** | Java + Spring Boot |
+| **Database** | MySQL / PostgreSQL |
+| **Containers** | Docker |
+| **Messaging** | Apache Kafka |
+| **Versioning** | Git + GitHub |
+
+</div>
+
+---
+
+# 📚 Education
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🎓 MCA
+**Shri Ram Institute of Technology, Jabalpur**
+Currently pursuing — focus on software development & backend engineering.
+
+</td>
+<td width="50%">
+
+### 🎓 BCA
+**St. Aloysius' College (Autonomous), Jabalpur**
+Completed with an overall CGPA of ~**8.51**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 DSA & Problem Solving
+
+Actively improving problem-solving skills through **DSA and LeetCode**.
+
+`Arrays` `Hashing` `Two Pointers` `Sliding Window` `Binary Search` `Stack` `Queue` `Trees` `Graphs` `Dynamic Programming`
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/raahullkushwaha?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+> Replace the LeetCode username above with your actual handle if different — this card only renders for real, public LeetCode profiles.
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raahulllkushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahulllkushwaha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=raahulllkushwaha&theme=tokyonight&hide_border=true" width="75%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=raahulllkushwaha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raahulllkushwaha&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/raahulllkushwaha/raahulllkushwaha/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+> ⚠️ The snake image only appears once the `snake` GitHub Action workflow has run at least once on your profile repo and pushed to the `output` branch — see the setup note below the file.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/raahullkushwaha/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://raahullkushwaha.dev/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://instagram.com/raahullkushwaha">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:raahullkushwaha@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Let's Connect
+
+I'm open to:
+
+**Backend Development • Java • Spring Boot • Microservices • System Design • DevOps • Open Source • Technical Collaboration**
+
+📩 **Email:** [raahullkushwaha@gmail.com](mailto:raahullkushwaha@gmail.com)
+🌐 **Portfolio:** https://raahullkushwaha.dev/
+💼 **LinkedIn:** https://www.linkedin.com/in/raahullkushwaha/
+
+---
+
+<div align="center">
+
+### ⚡ Code. Understand. Build. Improve.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:36BCF7&height=150&section=footer&animation=twinkling"/>
+
+</div>
+
+<!-- ========================= -->
+<!--      END OF README        -->
+<!-- ========================= -->
