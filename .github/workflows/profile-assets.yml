@@ -34,7 +34,7 @@ jobs:
           theme: tokyonight
           margin-width: "10"
           no-background: "true"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       # 3) Activity Graph
       - name: Generate activity graph
@@ -43,7 +43,7 @@ jobs:
           username: raahulllkushwaha
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       # Push everything to the "output" branch
       - name: Deploy to output branch
