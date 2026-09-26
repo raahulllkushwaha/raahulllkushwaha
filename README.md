@@ -252,7 +252,7 @@ Actively improving problem-solving skills through **DSA and LeetCode**.
 # 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=raahulllkushwaha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+<img src="https://raw.githubusercontent.com/raahulllkushwaha/raahulllkushwaha/output/trophy.svg" width="95%"/>
 </div>
 
 ---
@@ -260,7 +260,7 @@ Actively improving problem-solving skills through **DSA and LeetCode**.
 # 📊 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raahulllkushwaha&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/raahulllkushwaha/raahulllkushwaha/output/activity-graph.svg" width="100%"/>
 </div>
 
 ---
