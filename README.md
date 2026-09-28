@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E2DE2&height=250&section=header&text=Rahul%20Kushwaha&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Java%20Backend%20Developer%20%7C%20Building%20Systems%2C%20Not%20Just%20CRUD&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Docker+%7C+Kubernetes+%7C+REST+APIs+%7C+JPA+%7C+SQL;MCA+Student+%7C+System+Design+Enthusiast;Building+systems%2C+not+just+CRUD+apps." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Docker+%7C+Kubernetes+%7C+Jenkins;REST+APIs+%7C+JPA+%7C+SQL;MCA+Student+%7C+System+Design+Enthusiast;Building+systems%2C+not+just+CRUD+apps." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -230,7 +230,7 @@ Actively improving problem-solving skills through **DSA and LeetCode**.
 <img src="https://leetcard.jacoblin.cool/raahullkushwaha?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-
+> Replace the LeetCode username above with your actual handle if different — this card only renders for real, public LeetCode profiles.
 
 ---
 
@@ -238,8 +238,8 @@ Actively improving problem-solving skills through **DSA and LeetCode**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raahulllkushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahulllkushwaha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" height="180"/>
+<img src="https://raw.githubusercontent.com/raahulllkushwaha/raahulllkushwaha/output/stats.svg" height="180"/>
+<img src="https://raw.githubusercontent.com/raahulllkushwaha/raahulllkushwaha/output/top-langs.svg" height="180"/>
 
 <br/>
 
