@@ -50,6 +50,24 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.TROPHY_TOKEN }}
 
+      # 4) GitHub Stats card (replaces github-readme-stats.vercel.app)
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=raahulllkushwaha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true
+          path: dist/stats.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
+
+      # 5) Top Languages card
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=raahulllkushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: dist/top-langs.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
+
       # Push everything to the "output" branch
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
