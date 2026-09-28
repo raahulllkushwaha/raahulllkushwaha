@@ -230,7 +230,6 @@ Actively improving problem-solving skills through **DSA and LeetCode**.
 <img src="https://leetcard.jacoblin.cool/raahullkushwaha?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-> Replace the LeetCode username above with your actual handle if different — this card only renders for real, public LeetCode profiles.
 
 ---
 
