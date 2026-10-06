@@ -176,27 +176,6 @@ My focus is on writing software that is **clean, maintainable and understandable
 
 ---
 
-# 🐧 Development Environment
-
-<div align="center">
-
-| | |
-|---|---|
-| **OS** | Fedora Linux |
-| **Desktop** | KDE Plasma |
-| **Primary IDE** | IntelliJ IDEA |
-| **Editor** | VS Code |
-| **Terminal** | Bash / PowerShell |
-| **Backend** | Java + Spring Boot |
-| **Database** | MySQL / PostgreSQL |
-| **Containers** | Docker |
-| **Messaging** | Apache Kafka |
-| **Versioning** | Git + GitHub |
-
-</div>
-
----
-
 # 📚 Education
 
 <table width="100%">
