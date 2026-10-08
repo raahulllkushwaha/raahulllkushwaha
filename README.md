@@ -152,26 +152,6 @@ graph LR
 
 ---
 
-# 🧪 Development Approach
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A(Code) --> B(API Design)
-    B --> C(Business Logic)
-    C --> D(Database)
-    D --> E(Messaging)
-    E --> F(Security)
-    F --> G(Deployment)
-    G --> H(Failure Handling)
-
-    style A fill:#36BCF7,color:#000
-    style H fill:#8E2DE2,color:#fff
-```
-
-</div>
-
 My focus is on writing software that is **clean, maintainable and understandable**, while learning how systems behave under real-world conditions.
 
 ---
